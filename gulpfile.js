@@ -28,6 +28,6 @@ function comprimeImg(){
         .pipe(gulp.dest('./build'))
 }
 
-exports.sass = compilaSass;
+exports.default = compilaSass;
 exports.js = minificaJS;
 exports.image = comprimeImg
