@@ -1,0 +1,1 @@
+function ಠ_ಠ827(ಠ_ಠ828,ಠ_ಠ829){return ಠ_ಠ828*ಠ_ಠ829}let resultado=ಠ_ಠ827(5,4);console.log(resultado);
